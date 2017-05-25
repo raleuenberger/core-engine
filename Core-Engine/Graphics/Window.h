@@ -1,8 +1,9 @@
 #pragma once
 #include <GLFW/glfw3.h>
 
+#include "Graphics/Color.h"
+
 #include <string>
-#include "Color.h"
 
 class Window
 {

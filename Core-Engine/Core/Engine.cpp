@@ -2,10 +2,10 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 
-#include "Engine.h"
+#include "Core/Engine.h"
+#include "Graphics/Window.h"
 
 #include <iostream>
-#include "Window.h"
 
 Engine::Engine()
 {
